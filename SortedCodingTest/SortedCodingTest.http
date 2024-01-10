@@ -1,0 +1,6 @@
+@SortedCodingTest_HostAddress = http://localhost:5035
+
+GET {{SortedCodingTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
